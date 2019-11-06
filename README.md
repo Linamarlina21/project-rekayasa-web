@@ -4,4 +4,4 @@
 .....
 ---
 # Screenshot
-! {image:../assets/img/Capture}
+! {image:../assets/img/Capture.png}
